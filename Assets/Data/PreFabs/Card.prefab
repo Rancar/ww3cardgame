@@ -749,6 +749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2048392359197290106}
+  - component: {fileID: 1501524888413011737}
   m_Layer: 5
   m_Name: Card
   m_TagString: Untagged
@@ -776,3 +777,23 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1501524888413011737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4749666054703995796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1194a51e221f040b319f7d553c2f2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: {fileID: 4454111248235322286}
+  cardText: {fileID: 4454111248861867300}
+  art: {fileID: 4454111248533889171}
+  card: {fileID: 11400000, guid: 2600a6008a761024a9bef701141c4078, type: 2}
+  cardOil: {fileID: 4454111248395208427}
+  cardHearts: {fileID: 4454111247551445151}
+  cardHE: {fileID: 4454111248934152714}
+  cardPierce: {fileID: 4454111248668451098}
