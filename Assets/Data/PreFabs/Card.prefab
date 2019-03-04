@@ -789,11 +789,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b1194a51e221f040b319f7d553c2f2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: {fileID: 4454111248235322286}
-  cardText: {fileID: 4454111248861867300}
-  art: {fileID: 4454111248533889171}
   card: {fileID: 11400000, guid: 2600a6008a761024a9bef701141c4078, type: 2}
-  cardOil: {fileID: 4454111248395208427}
-  cardHearts: {fileID: 4454111247551445151}
-  cardHE: {fileID: 4454111248934152714}
-  cardPierce: {fileID: 4454111248668451098}
+  properties:
+  - text: {fileID: 4454111248235322286}
+    image: {fileID: 0}
+    element: {fileID: 11400000, guid: 5f78c6b364e74104e92dc9145d3f1d5e, type: 2}
+  - text: {fileID: 4454111248861867300}
+    image: {fileID: 0}
+    element: {fileID: 11400000, guid: 3df9a4592f201b345b01638f842c9809, type: 2}
+  - text: {fileID: 0}
+    image: {fileID: 4454111248533889171}
+    element: {fileID: 11400000, guid: 1e7fa2139bae63443a79529f70374ec4, type: 2}
+  - text: {fileID: 4454111248934152714}
+    image: {fileID: 0}
+    element: {fileID: 11400000, guid: f1211d272746bd54da12be5e9cd22e98, type: 2}
+  - text: {fileID: 4454111247551445151}
+    image: {fileID: 0}
+    element: {fileID: 11400000, guid: 3028e85bca8ff2e4097d8bdbd2ab9b43, type: 2}
+  - text: {fileID: 4454111248395208427}
+    image: {fileID: 0}
+    element: {fileID: 11400000, guid: 650b08001862cd644ba5fcfea634b00f, type: 2}
+  - text: {fileID: 4454111248668451098}
+    image: {fileID: 0}
+    element: {fileID: 11400000, guid: 3475f5a94664a7d4c9cd51b6dce18609, type: 2}

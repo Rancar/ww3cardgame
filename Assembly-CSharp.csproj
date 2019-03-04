@@ -62,7 +62,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CardModel.cs" />
     <Compile Include="Assets\Scripts\Cards\Card.cs" />
+    <Compile Include="Assets\Scripts\Cards\CardProperties.cs" />
     <Compile Include="Assets\Scripts\Cards\CardViz.cs" />
+    <Compile Include="Assets\Scripts\Cards\CardVizProperties.cs" />
+    <Compile Include="Assets\Scripts\Cards\Element.cs" />
+    <Compile Include="Assets\Scripts\Cards\ElementImage.cs" />
+    <Compile Include="Assets\Scripts\Cards\ElementInt.cs" />
+    <Compile Include="Assets\Scripts\Cards\ElementText.cs" />
     <Compile Include="Assets\Scripts\DebugChangeCard.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
