@@ -26,6 +26,8 @@ public class CardViz : MonoBehaviour
 
         card = c;
 
+        c.cardType.OnSetType(this);
+
         for (int i = 0; i < c.properties.Length; i++)
         {
             CardProperties cp = c.properties[i];

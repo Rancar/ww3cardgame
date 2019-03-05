@@ -13,6 +13,7 @@ public class Card : ScriptableObject
     public int cardHE;
     public int cardPierce;*/
 
+    public CardType cardType;
     public CardProperties[] properties;
 
 }
