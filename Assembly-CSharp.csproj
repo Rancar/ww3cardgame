@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\Cards\ElementImage.cs" />
     <Compile Include="Assets\Scripts\Cards\ElementInt.cs" />
     <Compile Include="Assets\Scripts\Cards\ElementText.cs" />
+    <Compile Include="Assets\Scripts\Cards\Flying.cs" />
     <Compile Include="Assets\Scripts\Cards\InfantryCard.cs" />
     <Compile Include="Assets\Scripts\Cards\MechCard.cs" />
     <Compile Include="Assets\Scripts\DebugChangeCard.cs" />
