@@ -14,31 +14,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardType: {fileID: 11400000, guid: 8836df322276a1646a1a21224667516f, type: 2}
   properties:
-  - stringValue: 
+  - stringValue: T-34
     intValue: 0
     sprite: {fileID: 0}
-    element: {fileID: 11400000, guid: 2e96427987f48554eb5d956ccc9be8a7, type: 2}
+    element: {fileID: 11400000, guid: 5f78c6b364e74104e92dc9145d3f1d5e, type: 2}
   - stringValue: 
     intValue: 0
-    sprite: {fileID: 0}
-    element: {fileID: 0}
-  - stringValue: 
+    sprite: {fileID: 21300000, guid: 216757340bcfefe4196c9de9f627eb70, type: 3}
+    element: {fileID: 11400000, guid: 1e7fa2139bae63443a79529f70374ec4, type: 2}
+  - stringValue: Russian T-34
     intValue: 0
     sprite: {fileID: 0}
-    element: {fileID: 0}
+    element: {fileID: 11400000, guid: 3df9a4592f201b345b01638f842c9809, type: 2}
   - stringValue: 
-    intValue: 0
+    intValue: 3
     sprite: {fileID: 0}
-    element: {fileID: 0}
+    element: {fileID: 11400000, guid: f1211d272746bd54da12be5e9cd22e98, type: 2}
   - stringValue: 
-    intValue: 0
+    intValue: 4
     sprite: {fileID: 0}
-    element: {fileID: 0}
+    element: {fileID: 11400000, guid: 3028e85bca8ff2e4097d8bdbd2ab9b43, type: 2}
   - stringValue: 
-    intValue: 0
+    intValue: 5
     sprite: {fileID: 0}
-    element: {fileID: 0}
+    element: {fileID: 11400000, guid: 650b08001862cd644ba5fcfea634b00f, type: 2}
   - stringValue: 
-    intValue: 0
+    intValue: 6
     sprite: {fileID: 0}
-    element: {fileID: 0}
+    element: {fileID: 11400000, guid: 3475f5a94664a7d4c9cd51b6dce18609, type: 2}
