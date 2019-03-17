@@ -751,6 +751,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2048392359197290106}
   - component: {fileID: 1501524888413011737}
+  - component: {fileID: 6581844339335076551}
   m_Layer: 5
   m_Name: Card
   m_TagString: Untagged
@@ -816,6 +817,18 @@ MonoBehaviour:
   - text: {fileID: 8673287901958891702}
     image: {fileID: 0}
     element: {fileID: 11400000, guid: a187c8f0ff527d74a92d04d4b039f579, type: 2}
+--- !u!114 &6581844339335076551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4749666054703995796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 773a760c891987b46b051ccbf06f6f02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7071898638976891078
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c1f0b180a3ee20c489d43a921680353a, type: 3}
-  m_Name: InfantryCard
+  m_Script: {fileID: 11500000, guid: e435da124498ad24390fa54e92d401bd, type: 3}
+  m_Name: PlayerState
   m_EditorClassIdentifier: 
-  cardType: {fileID: 0}
-  properties: []
+  actions:
+  - {fileID: 11400000, guid: 059e80e2d7736a247ba7e99ebf4af766, type: 2}

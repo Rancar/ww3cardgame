@@ -9,8 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c1f0b180a3ee20c489d43a921680353a, type: 3}
-  m_Name: InfantryCard
+  m_Script: {fileID: 11500000, guid: cef2c52f6f4474a45b6d28c695832270, type: 3}
+  m_Name: Armor
   m_EditorClassIdentifier: 
-  cardType: {fileID: 0}
-  properties: []
+  typeName: Armor
