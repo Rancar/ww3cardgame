@@ -3,15 +3,22 @@ using System.Collections;
 
 public class CardInstance : MonoBehaviour, IClickable
 {
+    public GElement_Logic currentLogic;
+
     public void OnClick()
     {
-        Vector3 s = Vector3.one / 2;
-        this.transform.localScale = s;
+        if (currentLogic == null)
+            return;
+
+        currentLogic.OnClick(this);
     }
 
     public void OnHighlight()
     {
-        Vector3 s = Vector3.one * 2;
-        this.transform.localScale = s;
+        if (currentLogic == null)
+            return;
+
+        Debug.Log("highlights");
+        currentLogic.OnHighlight(this);
     }
 }
